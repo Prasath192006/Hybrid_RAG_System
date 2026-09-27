@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is an architectural pattern that enhances the capabilities of Large Language Models (LLMs) by augmenting them with external knowledge sources.
+
+By combining retrieval mechanisms with generative AI, RAG systems can access up-to-date domain-specific document bases without needing to retrain or fine-tune foundational language models.
+
+In this project, we utilize FastAPI for machine learning processing, Node.js Express for API management, React with Vite for the frontend UI, and Qdrant Cloud as our vector store.
